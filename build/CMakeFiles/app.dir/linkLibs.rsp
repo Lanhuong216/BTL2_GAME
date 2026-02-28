@@ -1,0 +1,1 @@
+ "C:/Users/hp/Downloads/Document/GAME/BTL2/vcpkg/installed/x64-windows/lib/manual-link/SDL2main.lib" "C:/Users/hp/Downloads/Document/GAME/BTL2/vcpkg/installed/x64-windows/lib/SDL2.lib" "C:/Users/hp/Downloads/Document/GAME/BTL2/vcpkg/installed/x64-windows/lib/SDL2_image.lib" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

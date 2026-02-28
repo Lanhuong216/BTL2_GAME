@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/hp/Downloads/Document/Game/BTL2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -o CMakeFiles\\app.dir\\main.cpp.obj -c C:\\Users\\hp\\Downloads\\Document\\Game\\BTL2\\main.cpp",
+  "file": "C:/Users/hp/Downloads/Document/Game/BTL2/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.obj"
+}
+]
